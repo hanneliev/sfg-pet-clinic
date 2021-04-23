@@ -1,0 +1,8 @@
+/home/hannelievh/Springboot_udemy/sfg-pet-clinic/pet-clinic-web/src/main/java/guru/springframework/sfgpetclinic/controllers/PetController.java
+/home/hannelievh/Springboot_udemy/sfg-pet-clinic/pet-clinic-web/src/main/java/guru/springframework/sfgpetclinic/controllers/VetController.java
+/home/hannelievh/Springboot_udemy/sfg-pet-clinic/pet-clinic-web/src/main/java/guru/springframework/sfgpetclinic/controllers/VisitController.java
+/home/hannelievh/Springboot_udemy/sfg-pet-clinic/pet-clinic-web/src/main/java/guru/springframework/sfgpetclinic/bootstrap/DataLoader.java
+/home/hannelievh/Springboot_udemy/sfg-pet-clinic/pet-clinic-web/src/main/java/guru/springframework/sfgpetclinic/controllers/IndexController.java
+/home/hannelievh/Springboot_udemy/sfg-pet-clinic/pet-clinic-web/src/main/java/guru/springframework/sfgpetclinic/controllers/OwnerController.java
+/home/hannelievh/Springboot_udemy/sfg-pet-clinic/pet-clinic-web/src/main/java/guru/springframework/sfgpetclinic/formatters/PetTypeFormatter.java
+/home/hannelievh/Springboot_udemy/sfg-pet-clinic/pet-clinic-web/src/main/java/guru/springframework/sfgpetclinic/SfgPetClinicApplication.java
