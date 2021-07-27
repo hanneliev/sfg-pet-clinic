@@ -1,18 +1,14 @@
 package guru.springframework.sfgpetclinic.bootstrap;
 
-import guru.springframework.sfgpetclinic.model.*;
-import guru.springframework.sfgpetclinic.services.*;
-import org.springframework.boot.CommandLineRunner;
 import org.springframework.stereotype.Component;
-
-import java.time.LocalDate;
 
 /**
  * Created by jt on 7/25/18.
  */
 @Component
-public class DataLoader implements CommandLineRunner {
-
+public class DataLoader {
+        //implements CommandLineRunner {
+/*
     private final OwnerService ownerService;
     private final VetService vetService;
     private final PetTypeService petTypeService;
@@ -115,5 +111,5 @@ public class DataLoader implements CommandLineRunner {
         vetService.save(vet2);
 
         System.out.println("Loaded Vets....");
-    }
+    }*/
 }
